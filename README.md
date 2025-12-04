@@ -14,7 +14,7 @@
 </ul>
 
 
-<h1>Pen Testing em Python</h1>
+<h1>Pen Testing em Python -> [Finalizado]</h1>
 <h3>16/10/2025</h3>
 <img 
   src="https://github.com/user-attachments/assets/53f84fef-83f1-4b7d-957f-bacbf20df7e4" 
