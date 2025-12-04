@@ -59,3 +59,17 @@ Criação de um "TCP Client" em python para se ligar ao "Server".
 <br>
 Criação de um "Scanner" que usa TCP e UDP usando a biblioteca "Nmap".
 <br clear="left"/>
+
+<p></p>
+<h3>4/12/2025</h3>
+<img 
+  src="https://github.com/user-attachments/assets/f39c4fd9-8661-4c0f-afa5-36761507cd5a"
+  alt="image" 
+  width="300" 
+  align="left"
+  style="margin-right: 20px;"
+/>
+✅ Criação de um Banner Grabber e de um Port Sacnner
+<br>
+Criação de um Banner Grabber e de um Port Sacnne usando a biblioteca "socket".
+<br clear="left"/>
