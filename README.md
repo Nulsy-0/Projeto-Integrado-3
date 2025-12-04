@@ -15,7 +15,7 @@
 
 
 <h1>Pen Testing em Python</h1>
-<h3>Progresso</h3>
+<h3>16/10/2025</h3>
 <img 
   src="https://github.com/user-attachments/assets/53f84fef-83f1-4b7d-957f-bacbf20df7e4" 
   alt="image" 
@@ -33,6 +33,7 @@ Compreensão do que são "Sockets" e criação de um servidor TCP em Python usan
 <br clear="left"/>
 
 <p></p>
+<h3>30/10/2025</h3>
 <img 
   src="https://github.com/user-attachments/assets/b3332c01-98c3-456c-b01a-0d10df6a5b9d"
   alt="image" 
@@ -46,6 +47,7 @@ Criação de um "TCP Client" em python para se ligar ao "Server".
 <br clear="left"/>
 
 <p></p>
+<h3>20/11/2025</h3>
 <img 
   src="https://github.com/user-attachments/assets/5a2fda70-6ccf-42bc-b8a3-0f9941bbbadd"
   alt="image" 
@@ -53,7 +55,7 @@ Criação de um "TCP Client" em python para se ligar ao "Server".
   align="left"
   style="margin-right: 20px;"
 />
-✅ Criação de um Scaner de ips
+✅ Criação de um Scanner de ips
 <br>
-Criação de um "Scaner" que usa TCP e UDP usando a biblioteca "Nmap".
+Criação de um "Scanner" que usa TCP e UDP usando a biblioteca "Nmap".
 <br clear="left"/>
