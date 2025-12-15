@@ -10,7 +10,7 @@
   
   <h2>Cursos</h2>
   <li><a href="https://www.freecodecamp.org/learn/information-security/#python-for-penetration-testing">Pen Testing em Python</a></li>
-  <li><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects">Back-End APIs</a></li>
+  <li><a href="https://alison.com/course/laravel-framework-for-beginners">Laravel</a></li>
 </ul>
 
 
@@ -72,4 +72,22 @@ Criação de um "Scanner" que usa TCP e UDP usando a biblioteca "Nmap".
 ✅ Criação de um Banner Grabber e de um Port Sacnner
 <br>
 Criação de um Banner Grabber e de um Port Sacnne usando a biblioteca "socket".
+<br clear="left"/>
+
+<h1>Laravel -> [Em Progresso]</h1>
+<h3>15/12/2025</h3>
+<img 
+  src="https://github.com/user-attachments/assets/9174ae8c-02b1-4b0c-99b8-42cd92f9fe8e" 
+  alt="image" 
+  width="300" 
+  align="left"
+  style="margin-right: 20px;"
+/>
+✅ Aprendizagem de Laravel
+<br>
+Estudos sober o foncionamento de Laravel.
+<br>
+✅ Instalação de Laravel
+<br>
+Instalação de Laravel através do Composer.
 <br clear="left"/>
